@@ -1,6 +1,5 @@
 package ex_21072024;
 
-// home work for FizzBuzz code
 public class LabCode133 {
     public static void main(String[] args) {
 
